@@ -7,7 +7,7 @@
 
 📫 You can reach me by calling 7358997258.
 
-LinkedIn: Soundar Kumar
+LinkedIn: Soundar Kumar  -  https://www.linkedin.com/in/soundar-kumar-41a682219/    
 
 Feel free to connect with me on LinkedIn to explore potential collaborations or discuss any software development opportunities. I am eager to contribute my skills and expertise in a professional and elegant manner.
 <!---
