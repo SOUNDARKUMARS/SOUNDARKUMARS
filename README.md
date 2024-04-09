@@ -1,9 +1,9 @@
 
 👋 Hi there, I'm SOUNDARKUMAR S.
 
-🌱 I am currently pursuing a Bachelor's degree in Biomedical Engineering at Dr. NGP Institute of Technology.
+🌱 I've done my Bachelor's degree in Biomedical Engineering at Dr. NGP Institute of Technology at 2024 Apr.
 
-💞️ I am actively seeking opportunities to collaborate on software development projects.
+💞️ I am actively seeking opportunities to collaborate on software development projects focussed on Frontend develeopment.
 
 📫 You can reach me by calling 7358997258.
 
